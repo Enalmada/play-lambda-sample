@@ -1,5 +1,7 @@
 # play-lambda-sample [![Build Status](https://travis-ci.org/Enalmada/play-lambda-sample.svg?branch=master)](https://travis-ci.org/Enalmada/play-lambda-sample) [![Join the chat at https://gitter.im/Enalmada/play-lambda-sample](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Enalmada/play-lambda-sample?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/Enalmada/play-lambda-sample](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Enalmada/play-lambda-sample?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project contains the code necessary to run a sample of PlayFramework on AWS Lambda.
 To avoid reinventing the wheel, I tried to learn from someone who has done it.
 I did find one article but it wasn't in my language and there was no github code attached.
